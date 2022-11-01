@@ -17,7 +17,7 @@ summary: 請完成幾個步驟、從 Spot Cloud Analyzer 的資訊區深入分�
 將Cloud Analyzer NetApp連結至AWS付款人帳戶、以便開始最佳化雲端運算成本。
 
 .步驟
-. 按一下 * 運算 * 。
+. 從導覽功能表中、選取*延伸功能>雲端作業*。
 . 按一下 * 將 AWS 認證資料新增至 Start* 。
 . 請依照頁面上的步驟連線 AWS 帳戶：
 +

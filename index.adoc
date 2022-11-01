@@ -2,8 +2,8 @@
 layout: astra 
 sidebar: sidebar 
 permalink: index.html 
-lead: View a cost analysis of your cloud compute spending and identify potential savings right from Cloud Manager. 
-summary: 檢視雲端運算支出的成本分析、找出Cloud Manager的潛在節約效益。 
+lead: 'View a cost analysis of your cloud compute spending and identify potential savings right from BlueXP (formerly Cloud Manager).' 
+summary: 檢視雲端運算支出的成本分析、找出潛在的節約效益、就在BlueXP（前身為Cloud Manager）。 
 ---
 = 運算文件
 :hardbreaks:

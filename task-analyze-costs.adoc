@@ -25,7 +25,7 @@ summary: 連結帳戶之後、請檢視雲端運算成本分析、以深入瞭�
 . 檢視成本分析、深入瞭解您的運算成本。
 
 
-image:screenshot_compute_dashboard.gif["在 Cloud Manager 中顯示「成本分析」頁面的快照。本頁包含下列文字所述資訊。"]
+image:screenshot_compute_dashboard.gif["顯示BlueXP中「成本分析」頁面的快照。本頁包含下列文字所述資訊。"]
 
 至今的月成本:: 從本月開始到現在、您的工作負載總成本。
 預計成本:: 根據您使用模式的分析、在月底的預測成本。
