@@ -35,4 +35,5 @@ image:screenshot_compute_add_account.gif["顯示連線頁面上每個可用欄�
 
 
 
+.結果
 從系統開始處理 AWS 帳戶資料。 Cloud Analyzer如果您有多個帳戶、Cloud Analyzer 那麼在管理帳戶下的所有連結帳戶、均以唯讀功能開始執行。如果您想要取得更多有關這些帳戶可能節約成本的詳細資料、您也需要將這些帳戶連結起來。當您連線帳戶時、您可以找到更多詳細資料 link:task-analyze-costs.html["分析您的運算成本"]。
