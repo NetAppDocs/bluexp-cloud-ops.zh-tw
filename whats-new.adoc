@@ -38,6 +38,6 @@ summary: 瞭解 BlueXP 雲端作業的新功能。
 
 善用資源 https://spot.io/products/cloud-analyzer/["Spot Cloud Analyzer 的功能"^]Cloud Manager現在可以針對您的雲端運算支出進行高階成本分析、並找出可能的節約效益。此資訊可從Cloud Manager * Compute *服務取得。
 
-https://docs.netapp.com/us-en/cloud-manager-compute/concept-compute.html["深入瞭解運算服務"]。
+https://docs.netapp.com/us-en/bluexp-cloud-ops/concept-compute.html["深入瞭解運算服務"]。
 
-image:https://raw.githubusercontent.com/NetAppDocs/cloud-manager-compute/main/media/screenshot_compute_dashboard.gif["在Cloud Manager中顯示「成本分析」頁面的快照"]
+image:https://raw.githubusercontent.com/NetAppDocs/bluexp-cloud-ops/main/media/screenshot_compute_dashboard.gif["在Cloud Manager中顯示「成本分析」頁面的快照"]
