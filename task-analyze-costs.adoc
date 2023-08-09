@@ -45,7 +45,7 @@ AWS 帳戶支出效率最高:: 前 10 大客戶是根據預估額外節約金額
 AWS 帳戶排行:: 這是以成本顯示前十大帳戶的長條圖。圖表是根據過去 30 天的支出活動而計算。
 
 
-https://help.spot.io/cloud-analyzer/cost-analysis/["深入瞭解 Spot Cloud Analyzer 的「成本分析」頁面"^]。
+https://docs.spot.io/cloud-analyzer/cost-analysis["深入瞭解 Spot Cloud Analyzer 的「成本分析」頁面"^]。
 
 
 
@@ -60,5 +60,5 @@ https://help.spot.io/cloud-analyzer/cost-analysis/["深入瞭解 Spot Cloud Anal
 image:screenshot_compute_dashboard_spot.gif["這張螢幕擷取畫面顯示「成本分析」頁面、並以「 Spot 」 Cloud Analyzer 為範例。"]
 
 * https://spot.io/products/cloud-analyzer/["請參閱 Cloud Analyzer 產品頁面以瞭解更多有關其功能的資訊"^]
-* https://help.spot.io/cloud-analyzer/["查看現場文件以取得 Cloud Analyzer 使用支援的資訊"^]
+* https://docs.spot.io/cloud-analyzer/["查看現場文件以取得 Cloud Analyzer 使用支援的資訊"^]
 

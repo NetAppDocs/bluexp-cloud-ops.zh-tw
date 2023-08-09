@@ -26,7 +26,7 @@ summary: 請完成幾個步驟、從 Spot Cloud Analyzer 的資訊區深入分�
 .. 執行 CloudForation 範本。
 .. 貼上 Spot 角色 ARN 。
 +
-https://help.spot.io/cloud-analyzer/connect-your-aws-account-2/["檢視這些步驟的詳細資料"^]。
+https://docs.spot.io/connect-your-cloud-provider/first-account/?id=connect-aws["檢視這些步驟的詳細資料"^]。
 
 +
 image:screenshot_compute_add_account.gif["顯示連線頁面上每個可用欄位的快照。"]
