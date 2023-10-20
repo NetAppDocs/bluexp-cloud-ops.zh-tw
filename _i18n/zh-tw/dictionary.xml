@@ -1,8 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <blocks>
-  <block id="0110949a431061ee668054b5ab98627e" category="summary">連結帳戶之後、請檢視雲端運算成本分析、以深入瞭解過去、目前及未來的雲端成本。</block>
   <block id="2a4220102e5972b56988182c09f604aa" category="doc">分析您的運算成本</block>
-  <block id="cbd3f934260df2829bad2ed4e0f06fd9" category="paragraph">連結帳戶後、請檢視雲端運算成本分析、深入瞭解過去、目前及未來的雲端成本。</block>
   <block id="135dc5daa0877864eea105ddf0b69fac" category="section-title">檢視成本分析</block>
   <block id="f3a29486bed19a90f2da6d007818b427" category="list-title">步驟</block>
   <block id="75f0eecd0fdb097a7d4b1e2f8e514d51" category="list-text">檢視成本分析、深入瞭解您的運算成本。</block>
@@ -59,8 +57,6 @@
   <block id="94bdad82453d71da22fcd69f47559c1c" category="paragraph">善用資源<block ref="f6403c1f0596662bb11f11c4ddde243f" category="inline-link-rx"></block>Cloud Manager現在可以針對您的雲端運算支出進行高階成本分析、並找出可能的節約效益。此資訊可從Cloud Manager * Compute *服務取得。</block>
   <block id="0947726e3c301f45f25d6d4b3295fcec" category="inline-link">深入瞭解運算服務</block>
   <block id="6ae18045fc1ab0bf7898b13f3ef31c9a" category="inline-image-macro">在Cloud Manager中顯示「成本分析」頁面的快照</block>
-  <block id="26e6e5fcbea5f9f1e96a87e1f4727945" category="summary">請完成幾個步驟、從 Spot Cloud Analyzer 的資訊區深入分析雲端運算成本。</block>
-  <block id="0a17377f2d00cfdc489595aab3f4cb1a" category="doc">連接 Cloud Analyzer 至 AWS 帳戶</block>
   <block id="9e117c9326e0082792fc9db4022de033" category="paragraph">將Cloud Analyzer NetApp連結至AWS付款人帳戶、以便開始最佳化雲端運算成本。</block>
   <block id="82c17f884916312cf836be619c0f30b3" category="list-text">按一下 * 將 AWS 認證資料新增至 Start* 。</block>
   <block id="d26bbc99ee4f03459f79c4515854e01c" category="list-text">請依照頁面上的步驟連線 AWS 帳戶：</block>
@@ -282,4 +278,7 @@
   <block id="522cbb900314aeb84eb5a961c5f94672" category="section-title">取得雲端供應商檔案服務的支援</block>
   <block id="f6185bb12f5e53c800be8cda7fbca65b" category="paragraph">如需雲端供應商檔案服務、其基礎架構或任何使用服務的解決方案的相關技術支援、請參閱該產品的 BlueXP 文件中的「取得說明」。</block>
   <block id="3880ae5df9fdc4d0fc4a6d00a2239530" category="paragraph">若要獲得 BlueXP 及其儲存解決方案與服務的專屬技術支援、請使用下列支援選項。</block>
+  <block id="78567730cb8ddb4065ae0d589df0f0a1" category="summary">連接帳戶後、您可以直接從 BlueXP 檢視成本分析、然後按一下連結、從 Cloud Analyzer 取得完整分析。</block>
+  <block id="54e873db6c3412f41b0a199465c8d89e" category="paragraph">檢視雲端運算成本的分析、深入瞭解過去、目前和未來的雲端成本。</block>
+  <block id="33871b6190a8d5adbe8b15282054766c" category="sidebar">新增功能</block>
 </blocks>

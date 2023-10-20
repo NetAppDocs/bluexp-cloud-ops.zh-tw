@@ -14,7 +14,9 @@ sidebar:
   - title: BlueXP 雲端作業文件
     url: "/index.html"
   - title: 版本資訊
-    url: "/whats-new.html"
+    entries:
+    - title: 新增功能
+      url: "/whats-new.html"
   - title: 開始使用
     entries:
     - title: 瞭解 BlueXP 雲端作業

@@ -1,10 +1,10 @@
 ---
 sidebar: sidebar 
 permalink: task-getting-started-compute.html 
-keywords: compute, cloud insights, cloud analyzer, connect cloud analyzer, connect management account, connect payer account, aws payer account 
-summary: 請完成幾個步驟、從 Spot Cloud Analyzer 的資訊區深入分析雲端運算成本。 
+keywords: compute, cloud analyzer, connect cloud analyzer, connect management account, connect payer account, aws payer account 
+summary: 將Cloud Analyzer NetApp連結至AWS付款人帳戶、以便開始最佳化雲端運算成本。 
 ---
-= 連接 Cloud Analyzer 至 AWS 帳戶
+= 連線您的AWS帳戶
 :hardbreaks:
 :allow-uri-read: 
 :nofooter: 

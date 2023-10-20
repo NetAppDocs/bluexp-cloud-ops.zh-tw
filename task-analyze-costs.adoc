@@ -2,7 +2,7 @@
 sidebar: sidebar 
 permalink: task-analyze-costs.html 
 keywords: analyze costs, compute costs, projected costs, savings, cloud analyzer 
-summary: 連結帳戶之後、請檢視雲端運算成本分析、以深入瞭解過去、目前及未來的雲端成本。 
+summary: 連接帳戶後、您可以直接從 BlueXP 檢視成本分析、然後按一下連結、從 Cloud Analyzer 取得完整分析。 
 ---
 = 分析您的運算成本
 :hardbreaks:
@@ -14,11 +14,13 @@ summary: 連結帳戶之後、請檢視雲端運算成本分析、以深入瞭�
 
 
 [role="lead"]
-連結帳戶後、請檢視雲端運算成本分析、深入瞭解過去、目前及未來的雲端成本。
+連接帳戶後、您可以直接從 BlueXP 檢視成本分析、然後按一下連結、從 Cloud Analyzer 取得完整分析。
 
 
 
 == 檢視成本分析
+
+檢視雲端運算成本的分析、深入瞭解過去、目前和未來的雲端成本。
 
 .步驟
 . 按一下 * 延伸 > 雲端運算 * 。
