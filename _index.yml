@@ -1,0 +1,25 @@
+---
+indexpage:
+  title: BlueXP 雲端作業文件
+  summary: 檢視雲端運算支出的成本分析、找出 BlueXP 的潛在節約效益。
+  keywords: bluexp-family, bluexp, documentation, cloud
+  lead: 檢視雲端運算支出的成本分析、找出 BlueXP 的潛在節約效益。
+  tiles:
+  - title: 開始使用
+    links:
+    - title: 瞭解 BlueXP 雲端作業
+      url: concept-compute.html
+    - title: 連線您的AWS帳戶
+      url: task-getting-started-compute.html
+  - title: 使用 BlueXP 雲端作業
+    links:
+    - title: 分析您的運算成本
+      url: task-analyze-costs.html
+  - title: 部落格社群
+    links:
+    - title: NetApp社群
+      url: https://community.netapp.com/t5/Cloud-Data-Services/ct-p/CDS
+    - title: BlueXP部落格
+      url: https://cloud.netapp.com/blog
+    - title: 雲端網路研討會
+      url: https://cloud.netapp.com/events
