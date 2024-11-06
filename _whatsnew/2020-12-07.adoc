@@ -1,0 +1,11 @@
+= 在Cloud Manager和Spot之間進行導覽
+:allow-uri-read: 
+
+
+
+
+=== 在Cloud Manager和Spot之間進行導覽
+
+現在、您可以更輕鬆地在 Cloud Manager 和 Spot 之間進行瀏覽。
+
+全新的「 * 儲存作業 * 」區段可讓您直接導覽至 Cloud Manager 。完成後、您可以從 Cloud Manager 的 * Compute * 索引標籤找到答案。

@@ -40,4 +40,4 @@ summary: 瞭解 BlueXP 雲端作業的新功能。
 
 https://docs.netapp.com/us-en/bluexp-cloud-ops/concept-compute.html["深入瞭解運算服務"]。
 
-image:https://raw.githubusercontent.com/NetAppDocs/bluexp-cloud-ops/main/media/screenshot_compute_dashboard.gif["在Cloud Manager中顯示「成本分析」頁面的快照"]
+image:screenshot_compute_dashboard.gif["在Cloud Manager中顯示「成本分析」頁面的快照"]
